@@ -5,4 +5,6 @@ Q an A app
 
 // npm install
 
+// create a .env file with firts line < OPENAI_API_KEY=sk-K.........................................j > with your openai API-KEY
+
 // node index.js
